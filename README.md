@@ -33,27 +33,6 @@ Designed for **offline-first usage**, this calculator ensures privacy and easy a
 - 📅 View detailed transaction history
 - 💾 All data stored securely using AsyncStorage
 
----
-
-## 📂 Folder Structure (Basic)
-
-```
-
-p2p-lending-app/
-├── components/
-│   ├── LenderForm.js
-│   ├── BorrowerForm.js
-│   └── TransactionList.js
-├── screens/
-│   ├── HomeScreen.js
-│   ├── LenderScreen.js
-│   ├── BorrowerScreen.js
-├── utils/
-│   └── storage.js (AsyncStorage logic)
-├── App.js
-└── README.md
-
-```
 
 ---
 
